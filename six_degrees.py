@@ -152,7 +152,7 @@ def createGraph(fileName):
 
 # write to database
 
-YEAR_FROM = 2000
+YEAR_FROM = 1960
 YEAR_TO = 2021 #included
 fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
 
@@ -161,11 +161,12 @@ fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
 
 g = createGraph(fileName)
 
-riderId1 = g.ridersDict["Romain Bardet"]
-riderId2 = g.ridersDict["Ivan Sosa"]
+riderId1 = g.ridersDict["Laurent Fignon"]
+riderId2 = g.ridersDict["Jacques Anquetil"]
 
 connection = g.numberBetween2riders(riderId1, riderId2)
 print(connection)
 
 
 
+    
