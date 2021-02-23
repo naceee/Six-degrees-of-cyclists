@@ -158,14 +158,14 @@ fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
 
 #writeToDatabase(YEAR_FROM, YEAR_TO)
 
-# read from database, create graph and connections 
+
 g = createGraph(fileName)
 
-riderId1 = g.ridersDict["Tadej Pogacar"]
+riderId1 = g.ridersDict["Romain Bardet"]
 riderId2 = g.ridersDict["Ivan Sosa"]
 
-n = g.numberBetween2riders(riderId1, riderId2)
-print(n)
+connection = g.numberBetween2riders(riderId1, riderId2)
+print(connection)
 
 
 
