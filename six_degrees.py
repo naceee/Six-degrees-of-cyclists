@@ -17,9 +17,6 @@ class Graph():
                 self.ridersDict[r] = l
                 self.ridersObjects.append(Rider(r))
 
-        #for i in range(len(riders)):
-        #    print(riders[i], ids[i])
-
         for i in range(len(riders)):
             for j in range(len(riders)):
                 self.ridersObjects[ids[i]].addTeammates(ids[j], self.ridersObjects[ids[j]])
@@ -32,12 +29,20 @@ class Graph():
     def updateNumbers(self):
         for rider in self.ridersObjects:
             rider.number = 69
+            rider.via = None
 
     def numberBetween2riders(self, riderId1, riderId2):
         self.ridersObjects[riderId1].count(0)
         n = self.ridersObjects[riderId2].number
+        
+        r = self.ridersObjects[riderId2]
+        path = [r.name]
+        while r != self.ridersObjects[riderId1]:
+            r = r.via
+            path.append(r.name)
+
         self.updateNumbers()
-        return n
+        return (n, path)
 
 class Rider():
 
@@ -46,6 +51,7 @@ class Rider():
         self.teammateIds = set()
         self.teammates = []
         self.number = 69
+        self.via = None
 
     def addTeammates(self, mateId, mateObject):
         if not mateId in self.teammateIds:
@@ -64,6 +70,7 @@ class Rider():
         for mate in self.teammates:
             if mate.number > num:
                 mate.number = num
+                mate.via = self
                 update.append(mate)
 
         for mate in update:
@@ -112,7 +119,7 @@ def writeToDatabase(yearFrom, yearTo):
 
 
     for i in range(YEAR_FROM, (YEAR_TO+1)):
-        print(i)
+        print('year', i)
         ids = getTeamIds(i)
 
         for teamId in ids:
@@ -121,7 +128,25 @@ def writeToDatabase(yearFrom, yearTo):
                 f.write(name + '\n')
             f.write('\n')
 
-    f.close()  
+    f.close() 
+    print('data downloaded and saved in', fileName) 
+
+
+def createGraph(fileName):
+    f = open(fileName, 'r')
+    g = Graph()
+
+    team = []
+    for line in f:
+        if line == '\n':
+            g.addTeam(team)
+            team.clear()
+        else:
+            team.append(line.rstrip())
+
+    print('graph created!')
+    print('Number of riders in database:', len(g.ridersDict))
+    return g
 
 
 
@@ -129,35 +154,18 @@ def writeToDatabase(yearFrom, yearTo):
 
 YEAR_FROM = 2000
 YEAR_TO = 2021 #included
+fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
 
 #writeToDatabase(YEAR_FROM, YEAR_TO)
 
-
 # read from database, create graph and connections 
+g = createGraph(fileName)
 
-fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
-f = open(fileName, 'r')
-g = Graph()
+riderId1 = g.ridersDict["Tadej Pogacar"]
+riderId2 = g.ridersDict["Ivan Sosa"]
 
-team = []
-for line in f:
-    if line == '\n':
-        g.addTeam(team)
-        team.clear()
-    else:
-        team.append(line.rstrip())
-
-print('Number of riders in database:', len(g.ridersDict))
-
-id1 = g.ridersDict["Romain Bardet"]
-id2 = g.ridersDict["Ivan Sosa"]
-
-n = g.numberBetween2riders(id1, id2)
+n = g.numberBetween2riders(riderId1, riderId2)
 print(n)
-
-
-
-
 
 
 
