@@ -1,0 +1,1100 @@
+Gediminas Bagdonas
+Romain Bardet
+François Bidard
+Geoffrey Bouchard
+Clément Champoussin
+Mikaël Chérel
+Clément Chevrier
+Benoît Cosnefroy
+Nico Denz
+Silvan Dillier
+Axel Domont
+Samuel Dumoulin
+Hubert Dupont
+Julien Duval
+Mathias Frank
+Tony Gallopin
+Ben Gastauer
+Alexandre Geniez
+Dorian Godon
+Alexis Gougeard
+Jaakko Hänninen
+Quentin Jauregui
+Matteo Jorgenson
+Anthony Jullien
+Pierre Latour
+Oliver Naesen
+Aurélien Paret-Peintre
+Nans Peters
+Stijn Vandenbergh
+Clément Venturini
+Alexis Vuillermoz
+Lawrence Warbasse
+
+Davide Ballerini
+Pello Bilbao
+Zhandos Bizhigitov
+Manuele Boaro
+Hernando Bohorquez
+Dario Cataldo
+Rodrigo Contreras
+Magnus Cort
+Laurens De Vreese
+Daniil Fominykh
+Omar Fraile
+Jakob Fuglsang
+Yevgeniy Gidich
+Jonas Gregaard
+Dmitriy Gruzdev
+Jan Hirt
+Hugo Houle
+Gorka Izagirre
+Ion Izagirre
+Merhawi Kudus
+Miguel Ángel López
+Alexey Lutsenko
+Yuriy Natarov
+Vadim Pronskiy
+Luis León Sánchez
+Nikita Stalnov
+Davide Villella
+Artyom Zakharov
+Andrey Zeits
+
+Valerio Agnoli
+Yukiya Arashiro
+Phil Bauhaus
+Grega Bole
+Damiano Caruso
+Sonny Colbrelli
+Rohan Dennis
+Chun Kai Feng
+Ivan Garcia
+Andrea Garosio
+Heinrich Haussler
+Kristjan Koren
+Matej Mohoric
+Antonio Nibali
+Vincenzo Nibali
+Domen Novak
+Mark Padun
+Hermann Pernsteiner
+Luka Pibernik
+Domenico Pozzovivo
+Marcel Sieberg
+Dylan Teuns
+Jan Tratnik
+Meiyin Wang
+Stephen Williams
+
+Pascal Ackermann
+Shane Archbold
+Erik Baska
+Cesare Benedetti
+Sam Bennett
+Maciej Bodnar
+Emanuel Buchmann
+Marcus Burghardt
+Jempy Drucker
+Davide Formolo
+Oscar Gatto
+Felix Großschartner
+Peter Kennaugh
+Patrick Konrad
+Leopold König
+Rafal Majka
+Jay McCarthy
+Gregor Muhlberger
+Daniel Oss
+Christoph Pfingsten
+Pawel Poljanski
+Lukas Pöstlberger
+Juraj Sagan
+Peter Sagan
+Maximilian Schachmann
+Andreas Schillinger
+Michael Schwarzmann
+Rüdiger Selig
+
+Josef &#268;erný
+Amaro Antunes
+William Barta
+Pawel Bernas
+Patrick Bevin
+Victor De La Parte
+Alessandro De Marchi
+Simon Geschke
+Kamil Gradek
+Jonas Koch
+Jakub Mareczko
+Lukasz Owsian
+Serge Pauwels
+Joey Rosskopf
+Szymon Sajnok
+Michael Schär
+Laurens Ten Dam
+Greg Van Avermaet
+Gijs Van Hoecke
+Nathan Van Hooydonck
+Guillaume Van Keirsbulck
+Francisco Ventoso
+Lukasz Wisniowski
+Fred Wright
+Georg Zimmerman
+Riccardo Zoidl
+
+Julian Alaphilippe
+Kasper Asgreen
+Eros Capecchi
+Remi Cavagna
+Tim Declercq
+Dries Devenyns
+Remco Evenepoel
+Samuel Gaze
+Philippe Gilbert
+Alvaro Hodeg
+Mikkel Honore
+Fabio Jakobsen
+Bob Jungels
+Iljo Keisse
+James Knox
+Yves Lampaert
+Davide Martinelli
+Enric Mas
+Michael Mørkøv
+Maximiliano Richeze
+Fabio Sabatini
+Florian Sénéchal
+Pieter Serry
+Jannik Steimle
+Zdenek Stybar
+Petr Vakoc
+Elia Viviani
+
+Sean Bennett
+Alberto Bettiol
+Matti Breschel
+Nathan Brown
+Jonathan Caicedo
+Hugh Carthy
+Simon Clarke
+Lawson Craddock
+Mitchell Docker
+Joe Dombrowski
+Sergio Higuita
+Moreno Hofland
+Alex Howes
+Tanel Kangert
+Sebastian Langeveld
+Daniel Martinez
+Daniel McLay
+Sacha Modolo
+Lachlan Morton
+Logan Owen
+Taylor Phinney
+Thomas Scully
+Rigoberto Uran
+Julius Van Den Berg
+Tejay Van Garderen
+Sep Vanmarcke
+Luis Villalobos
+Matthew Walls
+James Whelan
+Michael Woods
+
+Bruno Armirail
+William Bonnet
+Alexys Brunel
+Mickaël Delage
+Arnaud Démare
+Antoine Duchesne
+Kilian Frankiny
+David Gaudu
+Kevin Geniets
+Jacopo Guarnieri
+Daniel Hoelgaard
+Ziga Jerman
+Ignatas Konovalovas
+Stefan Küng
+Matthieu Ladagnous
+Olivier Le Gac
+Matis Louvel
+Tobias Ludvigsson
+Valentin Madouas
+Rudy Molard
+Steve Morabito
+Thibaut Pinot
+Sebastien Reichenbach
+Anthony Roux
+Marc Sarreau
+Miles Scotson
+Romain Seigle
+Ramon Sinkeldam
+Benjamin Thomas
+Benoît Vaugrenard
+Léo Vincent
+
+Sander Armee
+Tiesj Benoot
+Adam Blythe
+Victor Campenaerts
+Jasper De Buyst
+Thomas De Gendt
+Stan Dewulf
+Caleb Ewan
+Frederik Frison
+Carl Fredrik Hagen
+Adam Hansen
+Rasmus Iversen
+Jens Keukeleire
+Roger Kluge
+Bjorg Lambrecht
+Nikolas Maes
+Tomasz Marczynski
+Remy Mertz
+Maxime Monfort
+Lawrence Naesen
+Gerben Thijssen
+Tosh Van der Sande
+Brian Van Goethem
+Brent Van Moer
+Jelle Vanendert
+Harm Vanhoucke
+Jelle Wallays
+Tim Wellens
+Enzo Wouters
+
+Edoardo Affini
+Michael Albasini
+Jack Bauer
+Sam Bewley
+Brent Bookwalter
+Esteban Chaves
+Luke Durbridge
+Alex Edmondson
+James Fouche
+Tsgabu Grmay
+Kaden Groves
+Jack Haig
+Lucas Hamilton
+Mathew Hayman
+Michael Hepburn
+Damien Howson
+Daryl Impey
+Christopher Juul-Jensen
+Cameron Meyer
+Luka Mezgec
+Mikel Nieve
+Barnabas Peak
+Nick Schultz
+Callum Scotson
+Dion Smith
+Robert Stannard
+Matteo Trentin
+Adam Yates
+Simon Yates
+
+Andrey Amador
+Winner Anacona
+Jorge Arcas
+Carlos Barbero
+Daniele Bennati
+Carlos Betancur
+Richard Carapaz
+Hector Carretero
+Jaime Castrillo
+Imanol Erviti
+Ruben Fernandez
+Mikel Landa
+Lluis Mas
+Nelson Oliveira
+Antonio Pedrero
+Eduard Prades
+Nairo Quintana
+Jurgen Roelandts
+José Joaquin Rojas
+Eduardo Sepulveda
+Marc Soler
+Jasha Sütterlin
+Rafael Valls
+Alejandro Valverde
+Carlos Verona
+
+Lars Ytting Bak
+Edvald Boasson Hagen
+Mark Cavendish
+Steve Cummings
+Scott Davies
+Stefan de Bod
+Nicholas Dlamini
+Bernhard Eisel
+Enrico Gasparotto
+Amanuel Gebreigzabhier
+Ryan Gibbons
+Jacques Janse Van Rensburg
+Reinardt Janse Van Rensburg
+Benjamin King
+Alexander Konychev
+Roman Kreuziger
+Louis Meintjes
+Gino Mäder
+Giacomo Nizzolo
+Ben O'Connor
+Mark Renshaw
+Tom-Jelte Slagter
+Jay Robert Thomson
+Rasmus Tiller
+Michael Valgren
+Jacobus Venter
+Julien Vermote
+Danilo Wyss
+
+Leonardo Basso
+Egan Bernal
+Jonathan Castroviejo
+David De La Cruz
+Owain Doull
+Edward Dunbar
+Kenny Elissonde
+Chris Froome
+Filippo Ganna
+Tao Geoghegan Hart
+Michal Golas
+Kristoffer Halvorsen
+Sebastian Henao
+Vasil Kiryienka
+Christian Knees
+Michal Kwiatkowski
+Christopher Lawless
+Gianni Moscon
+Jhonnatan Narvaez
+Wout Poels
+Salvatore Puccio
+Diego Rosa
+Luke Rowe
+Pavel Sivakov
+Ivan Sosa
+Ian Stannard
+Ben Swift
+Geraint Thomas
+Dylan Van Baarle
+
+George Bennett
+Koen Bouwman
+Laurens De Plus
+Floris De Tier
+Pascal Eenkhoorn
+Robert Gesink
+Dylan Groenewegen
+Lennard Hofstede
+Amund Grøndahl Jansen
+Steven Kruijswijk
+Stef Krul
+Sepp Kuss
+Tom Leezer
+Bert-Jan Lindeman
+Paul Martens
+Tony Martin
+Neilson Powless
+Primoz Roglic
+Timo Roosen
+Mike Teunissen
+Antwan Tolhoek
+Wout Van Aert
+Taco van der Hoorn
+Jos Van Emden
+Danny van Poppel
+Jonas Vingegaard
+Maarten Wynants
+
+Enrico Battaglin
+Jenthe Biermans
+Ian Boswell
+Dylan Bouwmans
+Steff Cras
+Jens Debusschere
+Alex Dowsett
+Matteo Fabbro
+Jose Goncalves
+Ruben Guerreiro
+Nathan Haas
+Marco Haller
+Reto Hollenstein
+Juri Hollmann
+Marcel Kittel
+Pavel Kochetkov
+Vyacheslav Kuznetsov
+Daniel Navarro
+Nils Politt
+Willie Smit
+Simon Spilak
+Dmitriy Strakhov
+Harry Tanfield
+Mads Würtz Schmidt
+Rick Zabel
+Ilnur Zakarin
+
+Asbjørn Kragh Andersen
+Søren Kragh Andersen
+Nikias Arndt
+Jan Bakelants
+Cees Bol
+Roy Curvers
+Tom Dumoulin
+Nils Eekhoff
+Johannes Fröhlinger
+Chad Haga
+Chris Hamilton
+Jai Hindley
+Marc Hirschi
+Max Kanter
+Wilco Kelderman
+Marten Kooistra
+Lennard Kämna
+Michael Matthews
+Joris Nieuwenhuis
+Sam Oomen
+Casper Pedersen
+Robert Power
+Nicolas Roche
+Martin Salmon
+Michael Storer
+Florian Stork
+Martijn Tusveld
+Louis Vervaeke
+Max Walscheid
+
+Fumiyuki Beppu
+Julien Bernard
+Gianluca Brambilla
+Giulio Ciccone
+William Clarke
+Nicola Conci
+Koen De Kort
+Nicolas Debeaumarché
+John Degenkolb
+Niklas Eg
+Fabio Felline
+Alex Frame
+Michael Gogl
+Markel Irizar
+Alex Kirsch
+Juan Pedro Lopez
+Bauke Mollema
+Jacopo Mosca
+Matteo Moschetti
+Ryan Mullen
+Jarlinson Pantano
+Mads Pedersen
+Richie Porte
+Charlie Quarterman
+Kiel Reijnen
+Toms Skujins
+Peter Stetina
+Jasper Stuyven
+Edward Theuns
+
+Fabio Aru
+Matt Beers
+Tom Bohli
+Sven Erik Bystrøm
+Simone Consonni
+Valerio Conti
+Rui Costa
+Nicolas Dalla Valle
+Kristijan Durasek
+Roberto Ferrari
+Fernando Gaviria
+Sergio Henao
+Alexander Kristoff
+Vegard Stake Laengen
+Marco Marcato
+Daniel Martin
+Yousef Mirza
+Sebastian Molano
+Manuele Mori
+Cristian Munoz
+Ivo Oliveira
+Rui Oliveira
+Simone Petilli
+Jasper Philipsen
+Tadej Pogacar
+Jan Polanc
+Edward Ravasi
+Alexandr Riabushenko
+Rory Sutherland
+Oliviero Troia
+Diego Ulissi
+
+Romain Bardet
+François Bidard
+Geoffrey Bouchard
+Clément Champoussin
+Mikaël Chérel
+Clément Chevrier
+Benoît Cosnefroy
+Silvan Dillier
+Axel Domont
+Julien Duval
+Mathias Frank
+Tony Gallopin
+Ben Gastauer
+Alexandre Geniez
+Dorian Godon
+Alexis Gougeard
+Jaakko Hänninen
+Quentin Jauregui
+Anthony Jullien
+Pierre Latour
+Lawrence Naesen
+Oliver Naesen
+Aurélien Paret-Peintre
+Nans Peters
+Antoine Raugel
+Harry Tanfield
+Stijn Vandenbergh
+Andrea Vendrame
+Clément Venturini
+Simon Verger
+Alexis Vuillermoz
+Lawrence Warbasse
+
+Alex Aranburu
+Zhandos Bizhigitov
+Manuele Boaro
+Hernando Bohorquez
+Rodrigo Contreras
+Laurens De Vreese
+Fabio Felline
+Daniil Fominykh
+Omar Fraile
+Jakob Fuglsang
+Yevgeniy Gidich
+Jonas Gregaard
+Dmitriy Gruzdev
+Hugo Houle
+Gorka Izagirre
+Ion Izagirre
+Merhawi Kudus
+Miguel Ángel López
+Alexey Lutsenko
+Davide Martinelli
+Yuriy Natarov
+Vadim Pronskiy
+Óscar Rodríguez
+Luis León Sánchez
+Nikita Stalnov
+Harold Tejada
+Aleksandr Vlasov
+Artyom Zakharov
+
+Yukiya Arashiro
+Enrico Battaglin
+Phil Bauhaus
+Pello Bilbao
+Grega Bole
+Santiago Buitrago
+Eros Capecchi
+Damiano Caruso
+Mark Cavendish
+Sonny Colbrelli
+Scott Davies
+Chun Kai Feng
+Ivan Garcia
+Marco Haller
+Heinrich Haussler
+Kevin Inkelaar
+Mikel Landa
+Matej Mohoric
+Domen Novak
+Mark Padun
+Hermann Pernsteiner
+Luka Pibernik
+Wout Poels
+Marcel Sieberg
+Dylan Teuns
+Jan Tratnik
+Rafael Valls
+Stephen Williams
+Fred Wright
+
+Pascal Ackermann
+Erik Baska
+Cesare Benedetti
+Maciej Bodnar
+Emanuel Buchmann
+Marcus Burghardt
+Jempy Drucker
+Matteo Fabbro
+Patrick Gamper
+Oscar Gatto
+Felix Großschartner
+Patrick Konrad
+Lennard Kämna
+Martin Laas
+Rafal Majka
+Jay McCarthy
+Gregor Muhlberger
+Daniel Oss
+Pawel Poljanski
+Lukas Pöstlberger
+Juraj Sagan
+Peter Sagan
+Maximilian Schachmann
+Ide Schelling
+Andreas Schillinger
+Michael Schwarzmann
+Rüdiger Selig
+
+Josef &#268;erný
+William Barta
+Patrick Bevin
+Victor De La Parte
+Alessandro De Marchi
+Simon Geschke
+Kamil Gradek
+Jan Hirt
+Jonas Koch
+Pavel Kochetkov
+Kamil Malecki
+Jakub Mareczko
+Fausto Masnada
+Michal Paluta
+Serge Pauwels
+Joey Rosskopf
+Szymon Sajnok
+Michael Schär
+Matteo Trentin
+Attila Valter
+Greg Van Avermaet
+Gijs Van Hoecke
+Nathan Van Hooydonck
+Guillaume Van Keirsbulck
+Francisco Ventoso
+Lukasz Wisniowski
+Ilnur Zakarin
+Georg Zimmerman
+
+Piet Allegaert
+Fernando Barceló
+Natnael Berhane
+Dimitri Claeys
+Simone Consonni
+Nicolas Edet
+Eddy Finé
+Nathan Haas
+Jesper Hansen
+Jesus Herrada
+Jose Herrada
+Victor Lafay
+Christophe Laporte
+Mathias Le Turnier
+Cyril Lemoine
+Guillaume Martin
+Luis Angel Mate
+Marco Mathis
+Emmanuel Morin
+Anthony Perez
+Pierre-Luc Périchon
+Nicolas Prodhomme
+Stéphane Rossetto
+Fabio Sabatini
+Damien Touzé
+Kenneth Vanbilsen
+Julien Vermote
+Attilio Viviani
+Elia Viviani
+Enrico Zanoncello
+
+Julian Alaphilippe
+Joao Almeida
+Shane Archbold
+Kasper Asgreen
+Andrea Bagioli
+Davide Ballerini
+Sam Bennett
+Mattia Cattaneo
+Remi Cavagna
+Tim Declercq
+Dries Devenyns
+Remco Evenepoel
+Ian Garrison
+Alvaro Hodeg
+Mikkel Honore
+Fabio Jakobsen
+Bob Jungels
+Iljo Keisse
+James Knox
+Yves Lampaert
+Fausto Masnada
+Michael Mørkøv
+Sean Quinn
+Florian Sénéchal
+Pieter Serry
+Stijn Steels
+Jannik Steimle
+Zdenek Stybar
+Bert Van Lerberghe
+Mauri Vansevenant
+
+Sean Bennett
+Alberto Bettiol
+Stefan Bissegger
+Jonathan Caicedo
+Hugh Carthy
+Simon Clarke
+Magnus Cort
+Lawson Craddock
+Mitchell Docker
+Ruben Guerreiro
+Kristoffer Halvorsen
+Sergio Higuita
+Moreno Hofland
+Alex Howes
+Tanel Kangert
+Jens Keukeleire
+Sebastian Langeveld
+Daniel Martinez
+Lachlan Morton
+Logan Owen
+Neilson Powless
+Jonas Rutsch
+Thomas Scully
+Rigoberto Uran
+Julius Van Den Berg
+Tejay Van Garderen
+Sep Vanmarcke
+Luis Villalobos
+James Whelan
+Michael Woods
+
+Bruno Armirail
+William Bonnet
+Alexys Brunel
+Mickaël Delage
+Arnaud Démare
+Antoine Duchesne
+Kilian Frankiny
+David Gaudu
+Kevin Geniets
+Jacopo Guarnieri
+Simon Guglielmi
+Ignatas Konovalovas
+Stefan Küng
+Matthieu Ladagnous
+Olivier Le Gac
+Fabian Lienhard
+Tobias Ludvigsson
+Valentin Madouas
+Rudy Molard
+Thibaut Pinot
+Sebastien Reichenbach
+Anthony Roux
+Marc Sarreau
+Miles Scotson
+Romain Seigle
+Ramon Sinkeldam
+Benjamin Thomas
+Léo Vincent
+
+Andrey Amador
+Leonardo Basso
+Egan Bernal
+Richard Carapaz
+Jonathan Castroviejo
+Rohan Dennis
+Owain Doull
+Edward Dunbar
+Chris Froome
+Filippo Ganna
+Tao Geoghegan Hart
+Michal Golas
+Ethan Hayter
+Sebastian Henao
+Christian Knees
+Michal Kwiatkowski
+Christopher Lawless
+Gianni Moscon
+Jhonnatan Narvaez
+Salvatore Puccio
+Brandon Rivera
+Carlos Rodriguez
+Luke Rowe
+Pavel Sivakov
+Ivan Sosa
+Ian Stannard
+Ben Swift
+Geraint Thomas
+Dylan Van Baarle
+Cameron Wurf
+
+Matteo Badilatti
+Rudy Barbier
+Jenthe Biermans
+Guillaume Boivin
+Matthias Brändle
+Alexander Cataford
+Davide Cimolai
+Alex Dowsett
+Itamar Einhorn
+Omer Goldstein
+André Greipel
+Ben Hermans
+Hugo Hofstetter
+Reto Hollenstein
+Daniel Martin
+Travis McCabe
+Daniel Navarro
+Krists Neilands
+Guy Niv
+James Piccoli
+Nils Politt
+Alexis Renard
+Mihkel Räim
+Guy Sagiv
+Patrick Schelling
+Rory Sutherland
+Norman Vahtra
+Tom Van Asbroeck
+Mads Würtz Schmidt
+Rick Zabel
+
+Sander Armee
+Steff Cras
+Jasper De Buyst
+Thomas De Gendt
+John Degenkolb
+Stan Dewulf
+Jonathan Dibben
+Caleb Ewan
+Frederik Frison
+Philippe Gilbert
+Kobe Goossens
+Carl Fredrik Hagen
+Adam Hansen
+Matthew Holmes
+Rasmus Iversen
+Roger Kluge
+Nikolas Maes
+Tomasz Marczynski
+Remy Mertz
+Stefano Oldani
+Gerben Thijssen
+Tosh Van der Sande
+Brian Van Goethem
+Brent Van Moer
+Harm Vanhoucke
+Florian Vermeersch
+Jelle Wallays
+Tim Wellens
+
+Edoardo Affini
+Michael Albasini
+Jack Bauer
+Sam Bewley
+Brent Bookwalter
+Esteban Chaves
+Luke Durbridge
+Alex Edmondson
+Tsgabu Grmay
+Kaden Groves
+Jack Haig
+Lucas Hamilton
+Michael Hepburn
+Damien Howson
+Daryl Impey
+Christopher Juul-Jensen
+Alexander Konychev
+Cameron Meyer
+Luka Mezgec
+Mikel Nieve
+Barnabas Peak
+Nick Schultz
+Callum Scotson
+Dion Smith
+Robert Stannard
+Adam Yates
+Simon Yates
+Andrey Zeits
+
+Juan Diego Alba
+Jorge Arcas
+Carlos Betancur
+Hector Carretero
+Dario Cataldo
+Gabriel Cullaigh
+Inigo Elosegui
+Imanol Erviti
+Juri Hollmann
+Johan Jacobs
+Matteo Jorgenson
+Enric Mas
+Lluis Mas
+Sebastian Mora
+Mathias Norsgaard
+Nelson Oliveira
+Antonio Pedrero
+Eduard Prades
+Jurgen Roelandts
+José Joaquin Rojas
+Einer Rubio
+Sergio Samitier
+Eduardo Sepulveda
+Marc Soler
+Albert Torres
+Alejandro Valverde
+Carlos Verona
+Davide Villella
+
+Carlos Barbero
+Samuele Battistella
+Edvald Boasson Hagen
+Victor Campenaerts
+Michael Carbel
+Stefan de Bod
+Nicholas Dlamini
+Benjamin Dyball
+Enrico Gasparotto
+Amanuel Gebreigzabhier
+Ryan Gibbons
+Michael Gogl
+Shotaro Iribe
+Reinardt Janse Van Rensburg
+Benjamin King
+Roman Kreuziger
+Louis Meintjes
+Gino Mäder
+Giacomo Nizzolo
+Ben O'Connor
+Domenico Pozzovivo
+Matteo Sobrero
+Andreas Stokbro
+Dylan Sunderland
+Jay Robert Thomson
+Rasmus Tiller
+Michael Valgren
+Max Walscheid
+Danilo Wyss
+
+George Bennett
+Koen Bouwman
+Laurens De Plus
+Tom Dumoulin
+Pascal Eenkhoorn
+Tobias Foss
+Robert Gesink
+Dylan Groenewegen
+Chris Harper
+Lennard Hofstede
+Amund Grøndahl Jansen
+Steven Kruijswijk
+Sepp Kuss
+Tom Leezer
+Bert-Jan Lindeman
+Paul Martens
+Tony Martin
+Christoph Pfingsten
+Primoz Roglic
+Timo Roosen
+Mike Teunissen
+Antwan Tolhoek
+Wout Van Aert
+Taco van der Hoorn
+Jos Van Emden
+Jonas Vingegaard
+Maarten Wynants
+
+Asbjørn Kragh Andersen
+Søren Kragh Andersen
+Thymen Arensman
+Nikias Arndt
+Tiesj Benoot
+Cees Bol
+Alberto Dainese
+Nico Denz
+Mark Donovan
+Nils Eekhoff
+Felix Gall
+Chad Haga
+Chris Hamilton
+Jai Hindley
+Marc Hirschi
+Max Kanter
+Wilco Kelderman
+Michael Matthews
+Joris Nieuwenhuis
+Sam Oomen
+Casper Pedersen
+Robert Power
+Nicolas Roche
+Martin Salmon
+Michael Storer
+Florian Stork
+Jasha Sütterlin
+Martijn Tusveld
+Ilan Van Wilder
+Kevin Vermaerke
+
+Julien Bernard
+Gianluca Brambilla
+Giulio Ciccone
+William Clarke
+Nicola Conci
+Koen De Kort
+Niklas Eg
+Kenny Elissonde
+Alessandro Fancellu
+Alexander Kamp
+Alex Kirsch
+Emils Liepins
+Juan Pedro Lopez
+Bauke Mollema
+Jacopo Mosca
+Matteo Moschetti
+Ryan Mullen
+Antonio Nibali
+Vincenzo Nibali
+Mads Pedersen
+Richie Porte
+Charlie Quarterman
+Kiel Reijnen
+Michel Ries
+Quinn Simmons
+Mattias Skjelmose Jensen
+Toms Skujins
+Jasper Stuyven
+Edward Theuns
+Antonio Tiberi
+Pieter Weening
+
+Andres Ardila
+Fabio Aru
+Mikkel Bjerg
+Tom Bohli
+Sven Erik Bystrøm
+Valerio Conti
+Rui Costa
+Alessandro Covi
+David De La Cruz
+Joe Dombrowski
+Davide Formolo
+Fernando Gaviria
+Sergio Henao
+Alexander Kristoff
+Vegard Stake Laengen
+Marco Marcato
+Brandon McNulty
+Yousef Mirza
+Sebastian Molano
+Cristian Munoz
+Ivo Oliveira
+Rui Oliveira
+Jasper Philipsen
+Tadej Pogacar
+Jan Polanc
+Edward Ravasi
+Alexandr Riabushenko
+Maximiliano Richeze
+Oliviero Troia
+Diego Ulissi
+
