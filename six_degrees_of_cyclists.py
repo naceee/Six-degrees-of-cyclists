@@ -1,5 +1,11 @@
 from urllib.request import urlopen
 
+# Code is below the classes and functions
+
+# Riders are represented as nodes in the graph.
+# For each year the connection between all riders in the same team is made.
+# Then you can just simply search for the closest path between two riders (nodes) in the graph.
+
 class Graph():
 
     def __init__(self):
@@ -25,7 +31,6 @@ class Graph():
         for r in self.ridersObjects:
             print(r.name, r.number)
 
-
     def resetNumbers(self):
         for rider in self.ridersObjects:
             rider.number = 69
@@ -43,6 +48,12 @@ class Graph():
 
         self.resetNumbers()
         return (n, path)
+
+
+# Each rider has a list of teammates (objects of type rider) and a set whit their ids
+# variable number and via are used for running the algorithm
+# numbers tells you the distance of the current shortest path
+# via tells you via which rider the path is going   
 
 class Rider():
 
@@ -63,6 +74,9 @@ class Rider():
         for mate in self.teammates:
             print("  ", mate.name)
 
+    # This is some simple (bad) version of Dijkstra algorithm, but it works fast enough
+    # I am pretty sure that it finds the shortest path between each two nodes (riders)
+    
     def count(self, num):
         self.number = num
         num += 1
@@ -75,7 +89,6 @@ class Rider():
 
         for mate in update:
             mate.count(num)
-
 
 
 def getTeamIds(year):
@@ -93,6 +106,8 @@ def getTeamIds(year):
                 ids.append(teamId[0:i])
                 break
     return ids
+
+# functions for scraping data from firstcycling.com and writing it to a simple .txt database
 
 def getRidersNames(teamId):
     url = 'https://firstcycling.com/team.php?l=' + str(teamId) + '&riders=1#team'
@@ -117,7 +132,6 @@ def writeToDatabase(yearFrom, yearTo):
     print(fileName)
     f = open(fileName, 'w')
 
-
     for i in range(YEAR_FROM, (YEAR_TO+1)):
         print('year', i)
         ids = getTeamIds(i)
@@ -130,7 +144,6 @@ def writeToDatabase(yearFrom, yearTo):
 
     f.close() 
     print('data downloaded and saved in', fileName) 
-
 
 def createGraph(fileName):
     f = open(fileName, 'r')
@@ -147,52 +160,52 @@ def createGraph(fileName):
     print('Number of riders in database:', len(g.ridersDict))
     return g
 
+def checkSpelling(inputRider, allNames):
+    riderSplit = inputRider.split(' ')
+    for name in allNames:
+        nameSplit = name.split(' ')
+        for r in riderSplit:
+            for n in nameSplit:
+                if n == r:
+                     print(' * maybe try searching ' + name + '?')
 
 
-# write to database
+# -----   CODE IS HERE   -----   
 
+# if you want to change the years, make sure to uncoment the writeToDatabase function
 YEAR_FROM = 1960
-YEAR_TO = 2021 #included
-fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
-
+YEAR_TO = 2021 
 #writeToDatabase(YEAR_FROM, YEAR_TO)
 
+fileName = 'database' + str(YEAR_FROM) + '-' + str(YEAR_TO) + '.txt'
 
+# create a graph from the database stored in the file 'fileName'
 g = createGraph(fileName)
 allNames = g.ridersDict.keys()
+
 
 print('hello dear cycling fan!')
 print()
 while True:
-    print('input complete name of a first cyclist')
+    # prompt user to input two riders names
+    print('input full name of a first cyclist')
     rider1 = input()
     while rider1 not in g.ridersDict:
         print('there is no cyclist named "' + rider1 + '" in my database. Check if you misspeled his name.')
-        riderSplit = rider1.split(' ')
-        for name in allNames:
-            nameSplit = name.split(' ')
-            for r in riderSplit:
-                for n in nameSplit:
-                    if n == r:
-                         print(' * maybe try searching ' + name + '?')
-        rider1 = input()        
+        checkSpelling(rider1, allNames)
+        rider1 = input() 
 
-    print('input complete name of a second cyclist')
+    print('input full name of a second cyclist')
     rider2 = input()
     while rider2 not in g.ridersDict:
         print('there is no cyclist named "' + rider2 + '" in my database. Check if you misspeled his name.')
-        riderSplit = rider2.split(' ')
-        for name in allNames:
-            nameSplit = name.split(' ')
-            for r in riderSplit:
-                for n in nameSplit:
-                    if n == r:
-                        print(' * maybe try searching ' + name + '?')
+        checkSpelling(rider2, allNames)
         rider2 = input()       
 
     riderId1 = g.ridersDict[rider1]
     riderId2 = g.ridersDict[rider2]
 
+    # find and print the closest connection between this two riders
     connection = g.numberBetween2riders(riderId1, riderId2)
     print(rider1 + ' number of ' + rider2 + ' is ' + str(connection[0]) + ':')
     for i in range(len(connection[1])-1):
@@ -206,8 +219,4 @@ while True:
     else: 
         break
         
-
-
-
-
     
