@@ -94,6 +94,7 @@ def getTeamIds(year):
                 break
     return ids
 
+# funkcija
 def getRidersNames(teamId):
     url = 'https://firstcycling.com/team.php?l=' + str(teamId) + '&riders=1#team'
     page = urlopen(url)
